@@ -1,6 +1,6 @@
 # Hi 👋, I'm Monisha M S  
 
-🌟 A passionate **Full Stack Developer**, **AI/ML enthusiast**, and **tech explorer** from 🇮🇳 India  
+🌟 A passionate **Full Stack Developer**, **AI/ML enthusiast**, and **tech explorer** from India  
 
 
  🚀 About Me
